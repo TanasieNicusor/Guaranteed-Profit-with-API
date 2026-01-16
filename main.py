@@ -94,7 +94,7 @@ class ArbitrageCalculator:
 
 
 def main():
-    API_KEY = "d9800d2f6fca40530c0b42f3ecd67bca"
+    API_KEY = "APY_KEY"
     
     try:
         client = OddsApiClient(API_KEY)
@@ -137,3 +137,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
