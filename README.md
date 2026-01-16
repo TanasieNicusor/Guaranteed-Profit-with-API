@@ -1,1 +1,1 @@
-# Guaranteed-Profit-with-API
+The code calculates if you can have a guaranteed profit by betting in a premier league match using multiple bookmakers. If an arbitrage opportunity exists it prints the value of each bet of a total of 100 (100% of a sum). The premier league matches are gathered using an api key from https://the-odds-api.com/ for automatic matches input.
